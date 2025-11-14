@@ -1,0 +1,62 @@
+{
+  "siteTitle": "City of Asylum PDX",
+  "navigation": [
+    { "label": "City of Asylum - PDX", "href": "#about" },
+    { "label": "How We Work", "href": "#how-we-work" },
+    { "label": "Our Global Community", "href": "#global-community" },
+    { "label": "Our Team", "href": "#team" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "social": {
+    "instagram": "#",
+    "email": "mailto:info@cityofasylumpdx.org",
+    "linkedin": "#"
+  },
+  "hero": {
+    "statement": "CITY OF ASYLUM PDX is an artist-led, Oregon-based nonprofit that offers support and sanctuary to writers living in exile due to the political nature of their work."
+  },
+  "howWeWork": {
+    "whatWeDo": {
+      "heading": "WHAT WE DO:",
+      "paragraphs": [
+        "We provide individual writers and their immediate families with housing, healthcare, visas, translation services, professional resources, and a stipend for a minimum of two years. To the best of our abilities, we tailor our support to each writer's extenuating circumstances and creative needs. Our goal is to offer respite so that they may recover from the trauma of extradition and lay the groundwork for longterm personal and professional success.",
+        "We are not trying to \"save\" people or use these artists for our own creative ends. We do not weigh in on the content of their writing or ask them to assimilate.",
+        "If the writer is interested in building local relationships, we can offer writing and teaching opportunities through literary organizations, publishing houses, and universities."
+      ]
+    },
+    "globalCommunity": {
+      "heading": "OUR GLOBAL COMMUNITY:",
+      "paragraphs": [
+        "City of Asylum PDX is a member of the International Cities of Refuge Network (ICORN). In 1993, a group of writers led by Salman Rushdie formed the International Parliament of Writers. At the behest of the IPW, governments in several European cities agreed to provide one to two years of support for endangered writers in exile. These were called \"Cities of Asylum,\" and they aimed to protect not only freedom of speech and freedom of publication but also the physical safety of writers. The IPW eventually dissolved in 2003, but its mission was picked up by the International Cities of Refuge Network (ICORN) – a non-governmental organization established in 2006, based in Stavanger, Norway. Since then, more than 80 cities across Europe, the United States and Latin America have joined the network. ICORN enables cities around the world to provide safe haven for persecuted writers and artists. The network actively collaborates with PEN International, Reporters without Borders (RSF), ProtectDefenders (PD), Arts Right Justice, Al Mawred, Artists at Risk Connection (ARC), Scholars at Risk, Frontline Defenders, DefendDefenders, Freemuse, UNESCO and many more, to improve conditions for freedom of expression worldwide.",
+        "Abroad, most Cities of Asylum are literal cities, facilitated by the cooperation of the communities' municipal governments. However, in the United States, City of Asylums operate as nonprofits within cities, funded by grants and partnered with universities. Currently, there are active branches in Ithaca, Detroit, Las Vegas, and Pittsburgh. City of Asylum PDX is proud to be the first American West Coast chapter of this global network."
+      ]
+    }
+  },
+  "team": {
+    "subtitle": "CO-FOUNDING DIRECTORS",
+    "members": [
+      {
+        "name": "SELINA FILLINGER",
+        "image": "/assets/images/selina.webp",
+        "bio": "Selina Fillinger is an award-winning, internationally produced playwright and screenwriter. Her feminist farce, POTUS: Or, Behind Every Great Dumbass are Seven Women Trying to Keep Him Alive, garnered three Tony nominations and made Fillinger, at 28, one of the youngest female playwrights ever produced on Broadway. Fillinger has written for theatre, TV, and film since she was 22. While an undergraduate at Northwestern University, Selina received her first professional commission for a play; her plays have since been produced all over the world. She has developed TV and film projects with AMC, Freeform, Hulu, Netflix, Apple TV, and HBO, and was named to the 2024 Forbes 30 Under 30 list for Hollywood/Entertainment. Fillinger is dedicated to dignifying and complicating characters who have long been dismissed by the American canon."
+      },
+      {
+        "name": "ANNIKA BENNETT",
+        "image": "/assets/images/annika.webp",
+        "bio": "Annika Bennett is a literary manager, grant writer, and playwright dedicated to advancing the artistic health and vitality of the Pacific Northwest. As a student at Princeton University, she received the Page Prize for Outstanding Achievement in the Creative Arts. She served as the Literary Manager of Albatross Theatre Lab and Book-It Repertory Theatre in Seattle, helping champion new work, up-and-coming writers, and theatrical adaptations of great works of classic and contemporary literature, and has worked in dramaturgy for companies including the Goodman Theatre and Seattle Rep. Annika has spent the last few years as part of a small team overseeing the implementation and administration of the Community Accelerator Grant, a groundbreaking trust-based philanthropy grantmaking program that has distributed $30M in funding to arts and cultural organizations across Washington State."
+      }
+    ],
+    "story": [
+      "Together, we are two creative professionals who have been friends for over fifteen years.",
+      "Annika's father is from Australia, Selina's father is from Switzerland, and yet both sets of parents happened to settle down the street from each other in Eugene, Oregon. We grew up in international, literary, creative households where reading was constant and television rare. Still, we did not meet until high school, when Annika cast Selina in a school play.",
+      "We parted ways for college and remained intermittently in touch over the following years as we zigzagged across the country for our careers. Over a decade later, we were delighted to discover we had moved back to Oregon with our respective fiancés within months of each other. Grateful for connection in a new city, we began discussing our desires to participate in and contribute to the local literary community. We were struck by the fact that as eighteen-year-old artists, both of us felt we had to leave Oregon in order to accomplish our creative ambitions. Our imaginations and literary tastes were developed here; why, then, had it felt so necessary to take those dreams elsewhere?",
+      "We began to ideate on an Oregon-based organization that would connect us to the larger literary world and the global struggle for free speech, while simultaneously fostering artistic industry within Portland. We wanted to combine our politics with our craft in our home state where our earliest creative impulses began. We are so grateful to call Oregon home. Especially now, as so many places are robbing themselves of life, art, and community by shutting their doors against anyone unfamiliar–we can be a refuge that invites people in, starts discussions, opens minds, and deepens roots."
+    ]
+  },
+  "contact": {
+    "title": "Get involved.",
+    "subtitle": "Love writers? Love free speech? Love Oregon? Want to make a tax deductible donation?",
+    "message": "Feel free to reach out to us with any questions or interest.",
+    "donateButton": "Donate"
+  }
+}
