@@ -3,7 +3,23 @@ layout: base.njk
 title: Home
 ---
 
-<div x-data='{ content: {{ content | dump(2) | safe }}, mobileMenuOpen: false, formData: { firstName: "", lastName: "", email: "" }, handleSubmit() { console.log("Form submitted:", this.formData); alert("Thank you for your interest! This is a demo form."); } }'>
+<script>
+  window.siteContent = {{ content | dump | safe }};
+</script>
+
+<div x-data="{
+    content: window.siteContent,
+    mobileMenuOpen: false,
+    formData: {
+        firstName: '',
+        lastName: '',
+        email: ''
+    },
+    handleSubmit() {
+        console.log('Form submitted:', this.formData);
+        alert('Thank you for your interest! This is a demo form.');
+    }
+}">
 
     {# Navigation #}
     <nav class="fixed top-0 w-full bg-forest-dark/95 backdrop-blur-sm text-cream z-50 shadow-lg">
