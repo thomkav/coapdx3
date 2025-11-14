@@ -2,6 +2,8 @@
 
 An artist-led, Oregon-based nonprofit that offers support and sanctuary to writers living in exile due to the political nature of their work.
 
+**Live Site**: https://great-notion-pdx.netlify.app/
+
 ## Technology Stack
 
 - **Static Site Generator**: Eleventy (11ty)
