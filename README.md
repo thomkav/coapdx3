@@ -8,9 +8,9 @@ An artist-led, Oregon-based nonprofit that offers support and sanctuary to write
 
 - **Static Site Generator**: Eleventy (11ty)
 - **CSS Framework**: Tailwind CSS v4
-- **Templating**: Nunjucks
+- **Templating**: Nunjucks (server-side rendering)
 - **Deployment**: Netlify
-- **JavaScript**: Alpine.js (for interactivity)
+- **JavaScript**: Vanilla JS (6 lines for mobile menu)
 
 ## Development
 
